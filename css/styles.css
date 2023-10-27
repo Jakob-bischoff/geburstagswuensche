@@ -1,0 +1,17 @@
+.centered-div {
+    width: 300px;
+    height: 200px;
+    justify-content: space-between;
+    margin: 0 auto; /* Center the div horizontally */
+}
+
+.section {
+    text-align: center;
+}
+.body {
+    background: url("indisches-frame-mit-rosen.jpg");
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-position: center center;
+    background-attachment: unset;
+}
